@@ -1,0 +1,10 @@
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\bin\Debug\ИМ_лаба4.exe.config
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\bin\Debug\ИМ_лаба4.exe
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\bin\Debug\ИМ_лаба4.pdb
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.Form1.resources
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.Properties.Resources.resources
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.exe
+C:\Users\slava\source\repos\ИМ_лаба4\ИМ_лаба4\obj\Debug\ИМ_лаба4.pdb
